@@ -1,0 +1,34 @@
+Ctrl + A  => 
+Ctrl + X  =>
+Ctrl + Y  =>
+Ctrl + D  =>
+Ctrl + Alt + Tab  =>
+Ctrl + Shift + N  =>
+(6)
+--------------------------------------------
+
+Alt + f4  => 
+Alt + Tab =>
+F2  => 
+(3)
+--------------------------------------------
+
+Win + I  =>
+Win + E  => 
+Win + A  => 
+Win + D  =>
+Win + G  =>
+Win + V  =>
+Win + .  =>
+Win + PrtSc =>
+Win + numbers =>
+Win + Shift + S =>
+Win + Ctrl + Aroows =>
+(11)
+--------------------------------------------
+Total == 20 ;
+********************************************
+
+Blokchainology.com
+Youtube.com/@Blokchainology 
+Github.com/Blokchainology
